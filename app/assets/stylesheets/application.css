@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
-= require animate.min.css
-= require bootstrap.min.css
-= require font-awesome.min.css
+= require animate.min.css{}
+= require bootstrap.min.css{}
+= require font-awesome.min.css{}
+= require templatemo-style.css{}
