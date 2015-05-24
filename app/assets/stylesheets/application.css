@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
-body {
-	padding-top: 40px;
-}
+= require animate.min.css
+= require bootstrap.min.css
+= require font-awesome.min.css
+= require templatemo-style.css
