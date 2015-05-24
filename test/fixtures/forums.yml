@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  body: MyText
+  happened_at: 2015-05-24 10:49:35
+  professor: MyString
+  occurence: MyString
+  author: MyString
+  picture: MyFile
+
+two:
+  title: MyString
+  body: MyText
+  happened_at: 2015-05-24 10:49:35
+  professor: MyString
+  occurence: MyString
+  author: MyString
+  picture: MyFile
