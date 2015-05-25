@@ -10,6 +10,12 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require bootstrap.min.js
+//= require custom.js
+//= require jquery.singlePageNav.min.js
+//= require pages.coffee
+//= require wow.min.js
+//= require typed.js
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
